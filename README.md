@@ -12,7 +12,7 @@ A **lightweight task scheduler** built with **NestJS** to run automated tasks at
 
 ## 🔧 Installation & Setup
 1️⃣ Clone the repository:
-```bash
+
 git clone https://github.com/<your-github-username>/nestjs-task-scheduler.git
 cd nestjs-task-scheduler
 
