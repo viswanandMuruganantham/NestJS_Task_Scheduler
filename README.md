@@ -1,3 +1,38 @@
+# 🚀 NestJS Task Scheduler
+
+A **lightweight task scheduler** built with **NestJS** to run automated tasks at scheduled intervals. This project demonstrates **cron jobs, time-based execution, and manual task triggering** without using a database.
+
+## 📖 Features
+✅ **Automated Task Execution** (Runs at scheduled times)  
+✅ **Manual Task Triggering** (Trigger tasks via API)  
+✅ **Logging System** (Logs execution to console & file)  
+✅ **No Database Required** (Standalone NestJS project)  
+
+---
+
+## 🔧 Installation & Setup
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/<your-github-username>/nestjs-task-scheduler.git
+cd nestjs-task-scheduler
+
+🛠 Tech Stack
+Back-end: NestJS, TypeScript
+Task Scheduling: @nestjs/schedule
+Logging: Console & File Logging
+
+🚀 Deploy on GitHub
+To deploy this project on GitHub, follow these steps:
+
+git init
+git add .
+git commit -m "Initial commit - NestJS Task Scheduler"
+git branch -M main
+git remote add origin https://github.com/<your-github-username>/nestjs-task-scheduler.git
+git push -u origin main
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
